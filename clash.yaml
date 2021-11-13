@@ -24,7 +24,7 @@ proxies:
   type: vmess
   uuid: a2813ede-de11-3a5c-9b78-88513f897491
   ws-headers:
-    Host: t.me/vpnpool
+    Host: a.189.cn
   ws-path: /niaocloud
 - alterId: 8
   cipher: auto
@@ -36,7 +36,7 @@ proxies:
   type: vmess
   uuid: 1439886a-ecb5-3bbf-bc65-8bfb23d72ea0
   ws-headers:
-    Host: xjp04.cswtw.xyz
+    Host: a.189.cn
   ws-path: /Xjibjp04e
 - alterId: 1
   cipher: auto
@@ -48,7 +48,7 @@ proxies:
   type: vmess
   uuid: dcbd3481-eb2c-33bc-8cb3-a093b3b4e2bb
   ws-headers:
-    Host: t.me/vpnpool
+    Host: a.189.cn
   ws-path: /niaocloud
 - alterId: 64
   cipher: auto
@@ -60,7 +60,7 @@ proxies:
   type: vmess
   uuid: ad806487-2d26-4636-98b6-ab85cc8521f7
   ws-headers:
-    Host: calm-snow-beb3.6663901.workers.dev
+    Host: a.189.cn
   ws-path: /
 - alterId: 0
   cipher: auto
@@ -72,7 +72,7 @@ proxies:
   type: vmess
   uuid: 5dad093c-697f-4791-aa7e-16a5eb5587ad
   ws-headers:
-    Host: 11.v2rayfree1.xyz
+    Host: a.189.cn
   ws-path: /ray
 - alterId: 1
   cipher: auto
@@ -104,7 +104,7 @@ proxies:
   type: vmess
   uuid: 5dad093c-697f-4791-aa7e-16a5eb5587ad
   ws-headers:
-    Host: 11.v2rayfree1.xyz
+    Host: a.189.cn
   ws-path: /ray
 - alterId: 1
   cipher: auto
@@ -126,7 +126,7 @@ proxies:
   type: vmess
   uuid: fb354731-1f2d-4731-8cbf-3b071e49701d
   ws-headers:
-    Host: us2.futi.online
+    Host: a.189.cn
   ws-path: /
 - alterId: 1
   cipher: auto
@@ -148,7 +148,7 @@ proxies:
   type: vmess
   uuid: a2813ede-de11-3a5c-9b78-88513f897491
   ws-headers:
-    Host: t.me/vpnpool
+    Host: a.189.cn
   ws-path: /niaocloud
 - alterId: 10
   cipher: auto
@@ -170,7 +170,7 @@ proxies:
   type: vmess
   uuid: f548911a-d732-3e05-b552-899f3f9a3487
   ws-headers:
-    Host: t.me/vpnpool
+    Host: a.189.cn
   ws-path: /niaocloud
 - alterId: 1
   cipher: auto
@@ -182,7 +182,7 @@ proxies:
   type: vmess
   uuid: fb354731-1f2d-4731-8cbf-3b071e49701d
   ws-headers:
-    Host: sg3.futi.online
+    Host: a.189.cn
   ws-path: /
 - alterId: 1
   cipher: auto
@@ -194,7 +194,7 @@ proxies:
   type: vmess
   uuid: fb354731-1f2d-4731-8cbf-3b071e49701d
   ws-headers:
-    Host: sg3.futi.online
+    Host: a.189.cn
   ws-path: /
 - alterId: 10
   cipher: auto
@@ -246,7 +246,7 @@ proxies:
   type: vmess
   uuid: 6ae2e994-2018-4f9f-a5bb-4639c14ba05f
   ws-headers:
-    Host: aws.774.gs
+    Host: a.189.cn
   ws-path: /
 - alterId: 4
   cipher: auto
@@ -268,7 +268,7 @@ proxies:
   type: vmess
   uuid: 615505e8-e63c-3bad-b3e7-d5e6cf99387e
   ws-headers:
-    Host: usa06.sdhexzy.xyz
+    Host: a.189.cn
   ws-path: /JS6
 - alterId: 8
   cipher: auto
@@ -280,7 +280,7 @@ proxies:
   type: vmess
   uuid: 615505e8-e63c-3bad-b3e7-d5e6cf99387e
   ws-headers:
-    Host: xjp03.cswtw.xyz
+    Host: a.189.cn
   ws-path: /JP03W
 - alterId: 8
   cipher: auto
@@ -292,7 +292,7 @@ proxies:
   type: vmess
   uuid: 1439886a-ecb5-3bbf-bc65-8bfb23d72ea0
   ws-headers:
-    Host: xjp03.cswtw.xyz
+    Host: a.189.cn
   ws-path: /JP03W
 - alterId: 8
   cipher: auto
@@ -304,7 +304,7 @@ proxies:
   type: vmess
   uuid: 615505e8-e63c-3bad-b3e7-d5e6cf99387e
   ws-headers:
-    Host: hg03.usarugg.xyz
+    Host: a.189.cn
   ws-path: /HGzsmqib01A
 - alterId: 10
   cipher: auto
@@ -326,7 +326,7 @@ proxies:
   type: vmess
   uuid: 615505e8-e63c-3bad-b3e7-d5e6cf99387e
   ws-headers:
-    Host: usa06.sdhexzy.xyz
+    Host: a.189.cn
   ws-path: /JS6
 - alterId: 8
   cipher: auto
@@ -338,7 +338,7 @@ proxies:
   type: vmess
   uuid: 615505e8-e63c-3bad-b3e7-d5e6cf99387e
   ws-headers:
-    Host: xjp03.cswtw.xyz
+    Host: a.189.cn
   ws-path: /JP03W
 - alterId: 0
   cipher: auto
@@ -360,7 +360,7 @@ proxies:
   type: vmess
   uuid: 1439886a-ecb5-3bbf-bc65-8bfb23d72ea0
   ws-headers:
-    Host: hg03.usarugg.xyz
+    Host: a.189.cn
   ws-path: /HGzsmqib01A
 - alterId: 8
   cipher: auto
@@ -372,7 +372,7 @@ proxies:
   type: vmess
   uuid: 1439886a-ecb5-3bbf-bc65-8bfb23d72ea0
   ws-headers:
-    Host: usa06.sdhexzy.xyz
+    Host: a.189.cn
   ws-path: /JS6
 - alterId: 8
   cipher: auto
@@ -384,7 +384,7 @@ proxies:
   type: vmess
   uuid: 1439886a-ecb5-3bbf-bc65-8bfb23d72ea0
   ws-headers:
-    Host: usa06.sdhexzy.xyz
+    Host: a.189.cn
   ws-path: /JS6
 - alterId: 1
   cipher: auto
@@ -406,7 +406,7 @@ proxies:
   type: vmess
   uuid: 5dad093c-697f-4791-aa7e-16a5eb5587ad
   ws-headers:
-    Host: 11.v2rayfree1.xyz
+    Host: a.189.cn
   ws-path: /ray
 - alterId: 1
   cipher: auto
@@ -448,7 +448,7 @@ proxies:
   type: vmess
   uuid: fb354731-1f2d-4731-8cbf-3b071e49701d
   ws-headers:
-    Host: kr4.futi.online
+    Host: a.189.cn
   ws-path: /
 - alterId: 10
   cipher: auto
@@ -480,7 +480,7 @@ proxies:
   type: vmess
   uuid: 615505e8-e63c-3bad-b3e7-d5e6cf99387e
   ws-headers:
-    Host: hg01.dddwda.xyz
+    Host: a.189.cn
   ws-path: /JS35
 - alterId: 10
   cipher: auto
@@ -512,7 +512,7 @@ proxies:
   type: vmess
   uuid: 1439886a-ecb5-3bbf-bc65-8bfb23d72ea0
   ws-headers:
-    Host: ld02.sdhexzy.xyz
+    Host: a.189.cn
   ws-path: /5JSnmsw5sdq
 - alterId: 8
   cipher: auto
@@ -524,7 +524,7 @@ proxies:
   type: vmess
   uuid: 615505e8-e63c-3bad-b3e7-d5e6cf99387e
   ws-headers:
-    Host: ld02.sdhexzy.xyz
+    Host: a.189.cn
   ws-path: /5JSnmsw5sdq
 - alterId: 0
   cipher: auto
@@ -556,7 +556,7 @@ proxies:
   type: vmess
   uuid: 615505e8-e63c-3bad-b3e7-d5e6cf99387e
   ws-headers:
-    Host: xjp04.cswtw.xyz
+    Host: a.189.cn
   ws-path: /Xjibjp04e
 - alterId: 0
   cipher: auto
@@ -568,7 +568,7 @@ proxies:
   type: vmess
   uuid: c77e573d-74b7-d04d-dcdd-4ee7c6e4f47a
   ws-headers:
-    Host: t.me/vpnhat
+    Host: a.189.cn
   ws-path: /iklsajwed
 - alterId: 1
   cipher: auto
@@ -580,7 +580,7 @@ proxies:
   type: vmess
   uuid: 6ae2e994-2018-4f9f-a5bb-4639c14ba05f
   ws-headers:
-    Host: 18.196.13.200
+    Host: a.189.cn
   ws-path: /
 - alterId: 4
   cipher: auto
@@ -602,7 +602,7 @@ proxies:
   type: vmess
   uuid: 1a26ac9c-2e11-469b-ba86-9970c6cc7b3e
   ws-headers:
-    Host: cm-jm.okvpn.xyz
+    Host: a.189.cn
   ws-path: /
 - alterId: 0
   cipher: auto
